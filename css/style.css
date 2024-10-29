@@ -10,5 +10,5 @@ p
 h6
 {font-family: Verdana, Geneva, Tahoma, sans-serif; text-align: center ;}
 
-button a :hover
-{color: black; background-color: black; border: 1px black; }
+div button a:hover
+{background-color: white; border: 1px solid blue; color: blue;}
